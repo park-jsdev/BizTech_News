@@ -1,6 +1,6 @@
-package com.example.jsonapireader.api;
+package com.parkjsdev.jsonapireader.api;
 
-import com.example.jsonapireader.models.News;
+import com.parkjsdev.jsonapireader.models.News;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

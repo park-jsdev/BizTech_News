@@ -1,4 +1,4 @@
-package com.example.jsonapireader;
+package com.parkjsdev.jsonapireader;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityOptionsCompat;
@@ -26,10 +26,10 @@ import android.widget.RelativeLayout;
 import androidx.appcompat.widget.SearchView;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.example.jsonapireader.api.ApiClient;
-import com.example.jsonapireader.api.ApiInterface;
-import com.example.jsonapireader.models.Article;
-import com.example.jsonapireader.models.News;
+import com.parkjsdev.jsonapireader.api.ApiClient;
+import com.parkjsdev.jsonapireader.api.ApiInterface;
+import com.parkjsdev.jsonapireader.models.Article;
+import com.parkjsdev.jsonapireader.models.News;
 import java.util.ArrayList;
 import java.util.List;
 

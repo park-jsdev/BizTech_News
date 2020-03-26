@@ -1,4 +1,4 @@
-package com.example.jsonapireader.api;
+package com.parkjsdev.jsonapireader.api;
 
 import java.security.cert.CertificateException;
 import javax.net.ssl.HostnameVerifier;

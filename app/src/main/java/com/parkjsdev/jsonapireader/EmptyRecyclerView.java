@@ -1,4 +1,4 @@
-package com.example.jsonapireader;
+package com.parkjsdev.jsonapireader;
 import android.view.ViewGroup;
 import androidx.recyclerview.widget.RecyclerView;
 

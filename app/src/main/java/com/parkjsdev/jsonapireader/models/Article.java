@@ -1,4 +1,4 @@
-package com.example.jsonapireader.models;
+package com.parkjsdev.jsonapireader.models;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

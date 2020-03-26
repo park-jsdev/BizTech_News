@@ -1,4 +1,4 @@
-package com.example.jsonapireader;
+package com.parkjsdev.jsonapireader;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -17,7 +17,7 @@ import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions;
 import com.bumptech.glide.request.RequestListener;
 import com.bumptech.glide.request.RequestOptions;
 import com.bumptech.glide.request.target.Target;
-import com.example.jsonapireader.models.Article;
+import com.parkjsdev.jsonapireader.models.Article;
 import java.util.List;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

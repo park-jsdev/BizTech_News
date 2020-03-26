@@ -1,4 +1,4 @@
-package com.example.jsonapireader;
+package com.parkjsdev.jsonapireader;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;

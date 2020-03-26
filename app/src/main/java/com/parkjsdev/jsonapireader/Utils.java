@@ -1,4 +1,4 @@
-package com.example.jsonapireader;
+package com.parkjsdev.jsonapireader;
 
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;

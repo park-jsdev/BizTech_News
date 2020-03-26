@@ -1,4 +1,4 @@
-package com.example.jsonapireader;
+package com.parkjsdev.jsonapireader;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

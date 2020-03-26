@@ -1,4 +1,4 @@
-package com.example.jsonapireader.api;
+package com.parkjsdev.jsonapireader.api;
 
 import okhttp3.ResponseBody;
 import retrofit2.Call;
