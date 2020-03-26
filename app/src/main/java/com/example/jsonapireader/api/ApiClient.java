@@ -15,8 +15,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ApiClient {
     public static final String BASE_URL = "https://newsapi.org/v2/";
     public static Retrofit retrofit;
-  //  https://newsapi.org/v2/top-headlines/
-// country=us&category=business&apiKey=7f6e701197904c918e9736e40e60d4be
+
 
     public static Retrofit getApiClient() {
 
