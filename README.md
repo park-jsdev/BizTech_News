@@ -14,3 +14,7 @@ TO DO: Use Multiple API's to add to Feed.
 v1.1 Changes
 
 Changed color scheme
+
+v1.11 Changes
+
+Refactored to upload to Google Play Store
