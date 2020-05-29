@@ -6,7 +6,7 @@ API News Is JSON API for live news and blog articles from the media.
 
 Followed tutorial by Haerul Muttaqin
 
-This tutorial uses retrofit2 as HTTP Clent - 
+This tutorial uses retrofit2 as HTTP Client - 
 Retrofit is a REST Client for Java and Android
 
 • API.
