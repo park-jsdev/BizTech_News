@@ -1,4 +1,4 @@
-# BizTech_News
+# BizTech News
 A News Aggregator App that uses JSON API for live news and blog articles from the media.
 
 ## Screenshots
@@ -18,7 +18,7 @@ A News Aggregator App that uses JSON API for live news and blog articles from th
 - Android
 
 # Installation
-TODO apk
+TODO upload apk
 
 ## TODO
 - Aggregate feed from multiple APIs
